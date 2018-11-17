@@ -1,3 +1,3 @@
 # GeekBrainsDB
 Database basics from geekbrains
-Test!
+Домашнее задание к первому уроку.
