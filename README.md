@@ -1,3 +1,2 @@
 # GeekBrainsDB
-Database basics from geekbrains
-Домашнее задание к первому уроку.
+Database basics from geekbrains.
